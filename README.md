@@ -13,7 +13,6 @@ Most of my recent projects started as tools I wanted to use: reading and organiz
 | [Investment Journal](https://github.com/aalpargu/investment-journal) | Transaction journal and portfolio tools. [Try a separate sample portfolio](https://investment-journal-demo-alpargu.flowydream.chatgpt.site). |
 | [LaterLab](https://github.com/aalpargu/laterlab) | A YouTube Watch Later library with watch plans and a Firefox extension. |
 | [Marks](https://github.com/aalpargu/marks-x-bookmarks) | Browser-based X bookmark archive with search, topics and validated backups. |
-
 | [Airline Management System](https://github.com/aalpargu/airline-management-system) | JavaFX desktop app for flight search and reservations, with a concurrent seat-access simulation and JUnit service tests. |
 | [Library Management System](https://github.com/aalpargu/library-management-system) | C console application using linked lists, function-pointer callbacks and CSV files for library records. |
 | [YouTube Speed Controller](https://github.com/aalpargu/youtube-speed-controller) | Small Firefox extension for changing YouTube playback speed with keyboard shortcuts. |
