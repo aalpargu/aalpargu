@@ -9,7 +9,7 @@ Most of my recent projects started as tools I wanted to use: reading and organiz
 | [Yaprak](https://github.com/aalpargu/yaprak-reader) | Android reading library with local search, notes and optional source-based book assistance. In development. |
 | [Doom Blocker](https://github.com/aalpargu/doom-blocker-android) | Android usage limits, focus rules and mandatory breaks; an app I use regularly. |
 | [Optimization experiments](https://github.com/aalpargu/optimization-algorithms-comparison) | Turkish QA data generation, sentence embeddings and NumPy implementations of GD, SGD and Adam. |
-| [Momentum](https://github.com/aalpargu/momentum) | Productivity PWA with focus sessions, tasks, habits, reports and optional cloud sync. |
+| [Multiplife](https://github.com/aalpargu/multiplife) | Productivity PWA with focus sessions, tasks, habits, reports and optional cloud sync. |
 | [Investment Journal](https://github.com/aalpargu/investment-journal) | Transaction journal and portfolio tools. [Try a separate sample portfolio](https://investment-journal-demo-alpargu.flowydream.chatgpt.site). |
 | [LaterLab](https://github.com/aalpargu/laterlab) | A YouTube Watch Later library with watch plans and a Firefox extension. |
 | [Marks](https://github.com/aalpargu/marks-x-bookmarks) | Browser-based X bookmark archive with search, topics and validated backups. |
